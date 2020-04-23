@@ -36,7 +36,10 @@ namespace KWZP_2020
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            this.Close();
+            //this.Close();
+            DetailsForm detailsForm = new DetailsForm(txtButtonChange.Text);
+
+            detailsForm.Show();
         }
     }
 }

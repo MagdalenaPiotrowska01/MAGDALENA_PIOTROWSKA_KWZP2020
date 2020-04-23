@@ -14,3 +14,6 @@ C:\Users\Magda\Desktop\STUDIA\02 Magisterskie\X semestr\Laboratorium\KWZP_2020\K
 C:\Users\Magda\Desktop\STUDIA\02 Magisterskie\X semestr\Laboratorium\KWZP_2020\KWZP_2020\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Magda\Desktop\STUDIA\02 Magisterskie\X semestr\Laboratorium\KWZP_2020\KWZP_2020\obj\Debug\KWZP_2020.DetailsForm.resources
 C:\Users\Magda\Desktop\STUDIA\02 Magisterskie\X semestr\Laboratorium\KWZP_2020\KWZP_2020\obj\Debug\KWZP_2020.csproj.CopyComplete
+C:\Users\Magda\Desktop\STUDIA\02 Magisterskie\X semestr\Repo\MAGDALENA_PIOTROWSKA_KWZP2020\Laboratorium\KWZP_2020\obj\Debug\KWZP_2020.csprojAssemblyReference.cache
+C:\Users\Magda\Desktop\STUDIA\02 Magisterskie\X semestr\Repo\MAGDALENA_PIOTROWSKA_KWZP2020\Laboratorium\KWZP_2020\obj\Debug\KWZP_2020.exe
+C:\Users\Magda\Desktop\STUDIA\02 Magisterskie\X semestr\Repo\MAGDALENA_PIOTROWSKA_KWZP2020\Laboratorium\KWZP_2020\obj\Debug\KWZP_2020.pdb
