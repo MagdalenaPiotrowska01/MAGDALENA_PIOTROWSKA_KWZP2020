@@ -553,13 +553,6 @@ VALUES
 	(3,'2020-04-08','2020-04-09',1),
 	(4,'2020-04-08','2020-04-09',1),
 	(5,'2020-04-08','2020-04-09',1)
-/*
-	(1,'2020-04-08','2020-04-09',1),
-	(2,'2020-04-09','2020-04-11',2),
-	(3,'2020-04-09','2020-04-08',1),
-	(4,'2020-04-12','2020-04-14',1),
-	(5,'2020-04-16','2020-04-16',1)
-*/
 INSERT INTO 
 	Zawartosc(ID_Polka,ID_Element,ID_Dostawy,Ilosc_Paczek) 
 VALUES 
@@ -602,15 +595,7 @@ VALUES
 	(7,4,12,300), --6000, 1 paczka = 20 sztuk
 	(8,2,4,8), --400, 1 paczka = 50 mb
 	(9,3,7,14) --175, 1 paczka = 12 mb ZA MA£O O 7 WEZMIEMY TO Z NADMIARU Z DOSTAWY 4
-/*
-	(1,2,4,5),
-	(1,3,8,15),
-	(2,2,5,10),
-	(3,3,9,7),
-	(4,5,14,100),
-	(5,7,20,42),
-	(5,9,26,3.5)
-*/
+
 INSERT INTO		
 	Dostarczenia_Wewn(ID_pracownicy,ID_dostawy,Ilosc_dostarczona,ID_miejsca,Data_dostarczenia) 
 VALUES 
