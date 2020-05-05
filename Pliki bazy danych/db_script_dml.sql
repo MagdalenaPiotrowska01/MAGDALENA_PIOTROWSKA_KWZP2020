@@ -572,7 +572,7 @@ VALUES
 	(9,3,7,14) --175, 1 paczka = 12 mb ZA MA£O O 7 WEZMIEMY TO Z NADMIARU Z DOSTAWY 4 ZOSTANIE 3 SZT 
 
 INSERT INTO		
-	Dostarczenia_Wewn(ID_pracownicy,ID_dostawy,Ilosc_dostarczona,ID_miejsca,Data_dostarczenia) 
+	Dostarczenia_Wewn(ID_pracownicy,ID_dostawy,ID_element,Ilosc_dostarczona,ID_miejsca,Data_dostarczenia) 
 VALUES 
 	(12,1,1,3,'2020-04-08'),
 	(12,2,5,3,'2020-04-10'),
